@@ -9,10 +9,6 @@ h1 {
   margin: auto;
 }
 
-.friend {
-  background-color: #1e2a2d;
-}
-
-.friend > h3 {
-  text-transform: uppercase;
+div {
+  color: whitesmoke;
 }
